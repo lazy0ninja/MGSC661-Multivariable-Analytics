@@ -1,1 +1,1 @@
-# MGSC661-Multivariable-Analytics
+Cuorses I have taken in MMA 2023 Fall term
